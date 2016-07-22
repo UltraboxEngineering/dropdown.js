@@ -1,0 +1,6 @@
+{
+  "name": "Dropdown.js",
+  "tagline": "",
+  "body": "# dropdown.js\r\n\r\n[![Join the chat at https://gitter.im/njbmartin/dropdown.js](https://badges.gitter.im/njbmartin/dropdown.js.svg)](https://gitter.im/njbmartin/dropdown.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\r\n\r\nThe easy way to use pre-populated dropdowns in less than 3 steps!\r\n\r\n1. Include the **JavaScript SDK** on your page once, ideally right after the opening `<body>` tag.\r\n  \r\n  ```html\r\n  <script src=\"//dropdown.io/embed.js\" async></script>\r\n  ```\r\n2. Add the **dropdown-io** class to an empty `select`, setting the `data-type` attribute to `countries`.\r\n\r\n  ```html\r\n  <select class=\"dropdown-io\" id=\"country\" data-type=\"countries\"></select>\r\n  ```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
